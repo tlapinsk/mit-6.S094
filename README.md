@@ -6,7 +6,7 @@ Also, another shoutout to [Anton Penchenko](https://github.com/parilo/DeepTraffi
 The main goal for me going through this project was to learn the basics of training neural networks, and I would say this was definitely achieved (even through replication of results). 
 
 My final code was able to hit 74.29mph, which isn't too far off the current top score of 76.29mph. There are definitely some improvements that can be made in my code:
-- Increase the number of 'trainIterations' 
+- Increase the number of `trainIterations`
 - Play around with the number of hidden layers and number of neurons.
 
 Other students had a variety of total hidden layers and number of neurons that yielded similar results to mine. It would be fun to continue optimizing until I hit ~76mph.
