@@ -12,7 +12,7 @@ My final code was able to hit 74.29mph, which isn't too far off the current top 
 Other students had a variety of total hidden layers and number of neurons that yielded similar results to mine. It would be fun to continue optimizing until I hit ~76mph.
 
 ## Helpful Resources
-[Hidden Layer Explanation](https://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-neural-network-compute)
-[Martin Riedmiller's Tips & Tricks](https://pdfs.semanticscholar.org/03fd/37aba0c900e232550cf8cc7f66e9465fae94.pdf)
-[dhanush987's code](https://github.com/dhanush987/DeepTraffic)
-[jasonsalas's code](https://github.com/jasonsalas/deeptraffic)
+1. [Hidden Layer Explanation](https://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-neural-network-compute) 
+2. [Martin Riedmiller's Tips & Tricks](https://pdfs.semanticscholar.org/03fd/37aba0c900e232550cf8cc7f66e9465fae94.pdf) 
+3. [dhanush987's code](https://github.com/dhanush987/DeepTraffic) 
+4. [jasonsalas's code](https://github.com/jasonsalas/deeptraffic) 
