@@ -15,5 +15,5 @@ Other students had a variety of total hidden layers and number of neurons that y
 1. [Hidden Layer Explanation](https://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-neural-network-compute) 
 2. [Martin Riedmiller's Tips & Tricks](https://pdfs.semanticscholar.org/03fd/37aba0c900e232550cf8cc7f66e9465fae94.pdf) 
 3. [Activation Functions](https://medium.com/towards-data-science/activation-functions-and-its-types-which-is-better-a9a5310cc8f)
-3. [dhanush987's code](https://github.com/dhanush987/DeepTraffic) 
-4. [jasonsalas's code](https://github.com/jasonsalas/deeptraffic) 
+4. [dhanush987's code](https://github.com/dhanush987/DeepTraffic) 
+5. [jasonsalas's code](https://github.com/jasonsalas/deeptraffic) 
