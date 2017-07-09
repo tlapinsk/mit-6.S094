@@ -1,5 +1,5 @@
 # MIT 6.S094
-Huge shoutout to MIT and Lex Fridman for offering the [self-driving car course](http://selfdrivingcars.mit.edu/) to the public. After watching the first two MIT 6.S094 lectures ([here](https://www.youtube.com/watch?v=1L0TKZQcUtA&feature=youtu.be) and [here](https://www.youtube.com/watch?v=QDzM8r3WgBw&feature=youtu.be)), it was time to kickoff the first project: [deeptrafficjs](http://selfdrivingcars.mit.edu/deeptrafficjs/).
+Huge shoutout to MIT and Lex Fridman for offering the [self-driving car course](http://selfdrivingcars.mit.edu/) to the public. After watching the first two MIT 6.S094 lectures ([here](https://www.youtube.com/watch?v=1L0TKZQcUtA&feature=youtu.be) and [here](https://www.youtube.com/watch?v=QDzM8r3WgBw&feature=youtu.be)), it was time to kickoff the first project: [DeepTrafficJS](http://selfdrivingcars.mit.edu/deeptrafficjs/).
 
 ## DeepTrafficJS
 Big thanks to [Anton Penchenko](https://github.com/parilo/DeepTraffic-solution) for posting his code on Github. My code closely resembles his final solution, so you can call this essentially a replication of his results.
